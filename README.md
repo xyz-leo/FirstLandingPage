@@ -32,9 +32,9 @@ This repository contains the source code for a simple and modern landing page bu
 
 ## How to Use
 
-1. Clone this repository:  
+1. Download or Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/xyz-leo/FirstLandingPage.git
 2. Open the index.html file in your browser to view the landing page.
 
 ---
